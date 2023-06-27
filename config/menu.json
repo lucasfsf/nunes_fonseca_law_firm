@@ -5,7 +5,7 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Sobre",
       "url": "/about"
     },
     {
@@ -13,7 +13,7 @@
       "url": "/elements"
     },
     {
-      "name": "Contact",
+      "name": "Contato",
       "url": "/contact"
     },
     {
@@ -22,7 +22,7 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Categories",
+          "name": "Categorias",
           "url": "/categories"
         }
       ]
@@ -34,15 +34,15 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Sobre",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contato",
       "url": "/contact"
     },
     {
-      "name": "Privacy Policy",
+      "name": "Politica de Privacidade",
       "url": "#"
     }
   ]
