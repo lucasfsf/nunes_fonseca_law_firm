@@ -1,25 +1,30 @@
 ---
-title: My work from home workstation
-date: 2022-04-04T02:00:00Z
+title: "Contrato de Convivência"
+date: 2023-06-28T09:00:00Z
 image: /images/post/post-2.png
-categories: ["drone"]
+categories: ["contratos"]
 featured: true
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Todos conhecemos a rivalidade clássica entre Tom e Jerry. Por anos, esses dois personagens nos cativaram com suas perseguições hilariantes. Mas e se eu te disser que eles decidiram fazer um contrato de convivência? Sim, você leu certo!
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Após tantas brigas e confusões, Tom e Jerry perceberam que a harmonia é mais importante do que a disputa. Juntos, eles elaboraram um contrato especial, estabelecendo regras e compromissos para uma convivência pacífica. Eles decidiram deixar de lado as diferenças e encontrar um equilíbrio entre seus interesses.
 
-## Covid-19 Situation
+No contrato, ficou acordado que a paz seria mantida em certas áreas da casa, enquanto outras continuariam sendo palco de suas perseguições travessas. Eles concordaram em respeitar o espaço um do outro e a não causar danos significativos durante suas brincadeiras.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Esse contrato entre Tom e Jerry nos ensina que mesmo as maiores rivalidades podem ser superadas quando existe um interesse mútuo em encontrar uma solução pacífica. Eles entenderam que, apesar das diferenças, podem aprender a conviver e até mesmo se ajudar em determinadas situações.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Além do aspecto emocional e simbólico, um contrato de convivência entre Tom e Jerry também teria aspectos jurídicos importantes. Embora se trate de personagens fictícios, o contrato de convivência é uma forma de acordo contratual que pode ser aplicada na vida real em diversas situações, como no compartilhamento de espaços ou na resolução de conflitos entre partes.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Juridicamente, um contrato de convivência estabeleceria os direitos e deveres de cada parte envolvida, definindo as regras que devem ser seguidas para garantir uma convivência harmoniosa. Isso pode incluir disposições sobre o uso compartilhado de determinados espaços, a definição de limites e responsabilidades, bem como a estipulação de mecanismos para resolver eventuais conflitos.
 
-![alter-text](/images/post/post-1.png)
-*Example Caption*
+> Existem exemplos reais de contratos de convivência em diferentes contextos. Por exemplo, em condomínios residenciais, é comum estabelecer um contrato de convivência, conhecido como "regimento interno", que regula as normas de convivência entre os moradores, como horários de silêncio, regras para uso de áreas comuns e responsabilidades comuns.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Outro exemplo é o contrato de convivência entre sócios de uma empresa, que estabelece as diretrizes para a administração e operação do negócio, como a divisão de responsabilidades, a distribuição de lucros e a resolução de conflitos entre os sócios.
+
+Esses exemplos reais demonstram a importância dos contratos de convivência para estabelecer direitos e obrigações claros, prevenindo potenciais disputas e promovendo uma convivência pacífica e colaborativa.
+
+Portanto, mesmo que a rivalidade entre Tom e Jerry seja fictícia, a ideia de um contrato de convivência entre eles reflete uma abordagem jurídica que pode ser aplicada em situações reais para promover a harmonia e resolver conflitos entre as partes envolvidas.
+
+Quer saber mais sobre o assunto? Venha conversar com nossa equipe!
