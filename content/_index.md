@@ -2,7 +2,7 @@
 banner:
   title: Nunes & Fonseca
   title_small: Advogados Associados
-  content: Especialistas em Direito Civil, Tributário e de Familia.
+  content: Escritório de Advocacia especializado em Contratos, Direito Tributário e Direito Digital.
   image_enable: true
   image: /images/banner-author.png
   button:
@@ -13,7 +13,7 @@ banner:
 
 featured_posts:
   enable: true
-  title: Principais Posts
+  title: Principais Artigos
 
 promotion:
   enable: false
@@ -21,6 +21,6 @@ promotion:
   link: "#"
 
 recent_posts:
-  title: Posts Recentes
+  title: Artigos Recentes
   enable: true
 ---
