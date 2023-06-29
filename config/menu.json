@@ -8,12 +8,6 @@
       "name": "Sobre",
       "url": "/about"
     },
-    /*
-    {
-      "name": "Contato",
-      "url": "/contact"
-    }, 
-    */
     {
       "name": "Artigos",
       "url": "/categories"
@@ -28,21 +22,9 @@
       "name": "Sobre",
       "url": "/about"
     },
-    /*
-    {
-      "name": "Contato",
-      "url": "/contact"
-    },
-    */
     {
       "name": "Artigos",
       "url": "/categories"
     },
-    /*
-    {
-      "name": "Politica de Privacidade",
-      "url": "#"
-    }
-    */
   ]
 }
