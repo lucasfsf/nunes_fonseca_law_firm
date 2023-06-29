@@ -26,14 +26,14 @@
     "copyright": "Desenvolvido com base em template de [Statichunt](https://statichunt.com/)"
   },
   "metadata": {
-    "meta_author": "Statichunt",
+    "meta_author": "Monica Nunes",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Geeky Nextjs Personal Blog Template"
+    "meta_description": "Nunes & Fonseca"
   },
   "widgets": {
     "about": {
       "enable": true,
-      "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
+      "content": "Escritório de Advocacia especializado em Contratos, Direito Tributário e Direito Digital."
     },
     "featured_posts": {
       "enable": true,
@@ -45,9 +45,9 @@
       "title": "Categorias de Artigos"
     },
     "newsletter": {
-      "enable": true,
+      "enable": false,
       "title": "Newsletter",
-      "content": "Join thousands of Tiny Salt subscribers and get our best recipes delivered each week!",
+      "content": "J and get our best recipes delivered each week!",
       "privacy_policy_page": "#",
       "malichipm_url": ""
     }
