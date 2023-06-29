@@ -36,12 +36,12 @@
       "content": "Escritório de Advocacia especializado em Contratos, Direito Tributário e Direito Digital."
     },
     "featured_posts": {
-      "enable": true,
+      "enable": false,
       "title": "Categorias de Artigos",
       "showPost": 3
     },
     "categories": {
-      "enable": true,
+      "enable": false,
       "title": "Categorias de Artigos"
     },
     "newsletter": {
