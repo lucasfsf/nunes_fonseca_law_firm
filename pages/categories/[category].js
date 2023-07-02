@@ -14,7 +14,7 @@ const Category = ({ postsByCategories, category, posts, categories }) => {
       <div className="section mt-16">
         <div className="container">
           <h1 className="h2 mb-12">
-            Showing posts from
+            Mostrando Artigos sobre
             <span className="section-title ml-1 inline-block capitalize">
               {category.replace("-", " ")}
             </span>
@@ -41,7 +41,7 @@ export default Category;
 
 // category page routes
 export const getStaticPaths = () => {
-  const allCategories = getTaxonomy(`content/${blog_folder}`, "categories");
+  const allCategories = getTaxonomy(`content/${blog_folder}`, "categorias");
 
   const paths = allCategories.map((category) => ({
     params: {
@@ -64,7 +64,7 @@ export const getStaticProps = ({ params }) => {
 
   const categoriesWithPostsCount = categories.map((category) => {
     const filteredPosts = posts.filter((post) =>
-      post.frontmatter.categories.map(e => slugify(e)).includes(category)
+      post.frontmatter.categories.map((e) => slugify(e)).includes(category)
     );
     return {
       name: category,
