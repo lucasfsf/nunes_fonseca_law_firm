@@ -41,7 +41,7 @@ export default Category;
 
 // category page routes
 export const getStaticPaths = () => {
-  const allCategories = getTaxonomy(`content/${blog_folder}`, "categorias");
+  const allCategories = getTaxonomy(`content/${blog_folder}`, "categories");
 
   const paths = allCategories.map((category) => ({
     params: {
